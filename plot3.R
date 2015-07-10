@@ -1,3 +1,6 @@
+library(dplyr)
+library(lubridate)
+
 print("Downloading and unzipping the data.")
 
 ## download and unzip the data
